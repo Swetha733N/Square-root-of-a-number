@@ -30,7 +30,9 @@ sqroot()
 ```
 
 ## Output:
-![output](squareroot.png)
+
+![Screenshot (76)](https://user-images.githubusercontent.com/122199934/232209214-ea462c6b-6ed7-4d55-bfb1-67cffc455459.png)
+
 
 
 ## Result:
